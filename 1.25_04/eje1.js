@@ -1,4 +1,5 @@
-/*Escribe una función llamada numPasos que reciba un número (entero positivo) y que retorne el número de pasos necesario 
+/*Ejercicio 1
+Escribe una función llamada numPasos que reciba un número (entero positivo) y que retorne el número de pasos necesario 
 para reducirlo a cero siguiendo estas 
 
 instrucciones:

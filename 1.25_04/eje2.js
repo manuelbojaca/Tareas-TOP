@@ -1,5 +1,6 @@
 
-/*Escribe una función llamada contraseña que reciba un string y retorne un nuevo string realizando los siguientes cambios:
+/*Ejercicio 2
+Escribe una función llamada contraseña que reciba un string y retorne un nuevo string realizando los siguientes cambios:
 
 Las mayúsculas se reemplazan por minúsculas.
 Se eliminan los espacios en blanco.

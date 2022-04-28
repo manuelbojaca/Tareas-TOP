@@ -1,0 +1,62 @@
+/*Agragado por Manuel*/
+@font-face {
+    font-family: SourceSansPro;
+    src: 'https://fonts.google.com/specimen/Source+Sans+Pro';
+    font-size: 16px;
+}
+html {
+    font-family: SourceSansPro;
+}
+body{
+    background-color: #f9f9f9;
+}
+
+h2{
+    margin: 0 12px;
+}
+
+p{
+    margin: 0 6px;
+}
+
+.post{
+    margin: auto;
+    width: 600px;
+    background-color: white;
+    font-size: 1.3rem;
+    font-weight: semibold (600);
+    color: #666;
+}
+
+.post-header{    
+    padding: 24px 22px 12px;
+    /*Agragado por Manuel*/
+    font-size: 1.1rem;
+    font-weight: semibold (600);
+}
+/*Agragado por Manuel*/
+.position-name{
+    color: #033d99;
+    font-weight: semibold (600);
+}
+/*Agragado por Manuel*/
+.post-time {
+    color: #666;
+}
+.position {
+    display: flex;
+    gap: 6px;
+}
+
+.post-picture{
+    padding: 0 22px;
+}
+
+.post-description{
+    padding: 12px 22px;
+}
+
+.post-sharing{
+    padding: 0px 22px 22px;
+    color: #666;
+}
